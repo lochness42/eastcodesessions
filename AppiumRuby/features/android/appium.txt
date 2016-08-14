@@ -1,0 +1,6 @@
+[caps]
+appium-version = "1.0"
+platformName = "android"
+platformVersion = "5.1"
+deviceName = "emulator-5554"
+app = "./../AndroidApp/SessionApp/app/build/outputs/apk/app-debug-unaligned.apk"

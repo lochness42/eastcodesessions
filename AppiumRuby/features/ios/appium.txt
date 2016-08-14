@@ -1,0 +1,6 @@
+[caps]
+appium-version = "1.0"
+platformName = "ios"
+platformVersion = "9.3"
+deviceName = "iPhone 6"
+app = "./../iOSApp/SessionApp/build/Build/Products/Debug-iphonesimulator/SessionApp.app"

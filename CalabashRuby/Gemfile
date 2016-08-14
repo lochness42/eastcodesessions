@@ -1,0 +1,9 @@
+# A sample Gemfile
+source "https://rubygems.org"
+
+gem "calabash-android"
+gem "calabash-cucumber"
+gem "run_loop", "2.1.6"
+gem "minitest"
+gem "test-unit"
+gem "rspec"

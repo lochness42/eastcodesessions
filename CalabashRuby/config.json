@@ -1,0 +1,9 @@
+{
+  "ios" : {
+    "app_path" : "./../iOSApp/SessionAppCal/build/Build/Products/Debug-iphonesimulator/SessionApp-cal.app",
+    "device" : "iPhone 6 (9.3)"
+  },
+  "android" : {
+    "app_path" : "./../AndroidApp/SessionApp/app/build/outputs/apk/app-debug-unaligned.apk"
+  }
+}
