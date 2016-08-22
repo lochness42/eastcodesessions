@@ -8,6 +8,7 @@ Some links leading to activities of the group are here:
 
 video recording from presentation on Facebook (Eastcodesessions group is owner)
  - https://www.facebook.com/eastcodesessions/videos/1769939516623674/
+
 Slides are available on google drive
  - https://docs.google.com/presentation/d/1yR9bYMznAoavnJWN1Mqna08LCdhStb2qQA6a16lpBaA/edit?usp=sharing
 
